@@ -1,9 +1,9 @@
 title: blackberry dashboard admin
 email: ml-flyvemdm@teclib.com
 twitter: flyvemdm
-baseurl: "/blackberry-dashboard-admin"
+baseurl: "/blackberry-mdm-dashboard"
 url: "http://flyve.org"   
-image: http://flyve.org/blackberry-dashboard-admin/images/logo2.png
+image: http://flyve.org/blackberry-mdm-dashboard/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/blackberry-dashboard-admin
+repository: flyve-mdm/blackberry-mdm-dashboard
 
 prose:
 
