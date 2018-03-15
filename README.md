@@ -1,22 +1,24 @@
-# Admin Dashboard for BlackBerry 10
+# MDM Dashboard for BlackBerry 10
 
 ![Flyve MDM banner](https://user-images.githubusercontent.com/663460/26935464-54267e9c-4c6c-11e7-86df-8cfa6658133e.png)
 
-[![License](https://img.shields.io/github/license/flyve-mdm/flyve-mdm-blackberry-admin-dashboard.svg?&label=License)](https://github.com/flyve-mdm/flyve-mdm-blackberry-admin-dashboard/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/flyve-mdm/blackberry-mdm-dashboard.svg?&label=License)](https://github.com/flyve-mdm/blackberry-mdm-dashboard/blob/master/LICENSE.md)
 [![Follow twitter](https://img.shields.io/twitter/follow/FlyveMDM.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/FlyveMDM)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/flyvemdm)
+[![Project Status: WIP](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
+[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
+[![IRC Chat](https://img.shields.io/badge/IRC%20Chat-%23flyvemdm-green.svg)](http://webchat.freenode.net/?channels=flyve-mdm)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-[![GitHub release](https://img.shields.io/github/release/flyve-mdm/flyve-mdm-blackberry-admin-dashboard.svg)](https://github.com/flyve-mdm/flyve-mdm-blackberry-admin-dashboard/releases)
+[![GitHub release](https://img.shields.io/github/release/flyve-mdm/blackberry-mdm-dashboard.svg)](https://github.com/flyve-mdm/blackberry-mdm-dashboard/releases)
 
 Flyve MDM is a Mobile device management software that enables you to secure and manage all the mobile devices of your business or family via a web-based console.
 
-To get started, check out <https://flyve-mdm.com/>!
+To get started, check out [Flyve MDM Website](https://flyve-mdm.com/)!
 
 ## Table of contents
 
 * [Synopsis](#synopsis)
 * [Build Status](#build-status)
-* [Installation](#installation)
 * [Documentation](#documentation)
 * [Versioning](#versioning)
 * [Contribute](#contribute)
@@ -25,30 +27,43 @@ To get started, check out <https://flyve-mdm.com/>!
 
 ## Synopsis
 
-TBF
+Blackberry MDM Dashboard provides the features to manage your company's mobile devices with ease and comfortably from your own Blackberry 10 mobile.
+
+You will find in our awesome features the ability to:
+
+* Install and uninstall remote applications
+* Send files remotely to all terminals
+* Deploy and control Bluetooth and Wi-Fi connectivity
+* Activate real-time geolocation of your terminals
+* Delete, partially or totally, your data in case of loss or theft
+* Create an inventory of all of your company terminals
+* Keep control and protect yourself from cyber-attacks:
+  * Set the level of complexity of your passwords
+  * Activate mobile device encryption
+  * Lock the mobile device remotely
+  * Control the authorisation for the use of the camera
+  * Erase all data from the remote terminal (reset)
 
 ## Build Status
 
 | **Release channel** | **Beta channel** |
 |:---:|:---:|
-| [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-admin-dashboard.svg?branch=master)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-admin-dashboard) | [![Build Status](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-admin-dashboard.svg?branch=develop)](https://travis-ci.org/flyve-mdm/flyve-mdm-blackberry-admin-dashboard) |
-
-## Installation
+| [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard.svg?branch=master)](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard) | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard.svg?branch=develop)](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard) |
 
 ## Documentation
 
-We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/flyve-mdm-blackberry-admin-dashboard/wiki).
+We share long-form content about the project in the [How-tos](http://flyve.org/blackberry-mdm-dashboard/howtos/) section on the website.
 
 ## Versioning
 
 In order to provide transparency on our release cycle and to maintain backward compatibility, Flyve MDM is maintained under [the Semantic Versioning guidelines](http://semver.org/). We are committed to following and complying with the rules, the best we can.
 
-See [the tags section of our GitHub project](http://github.com/flyve-mdm/flyve-mdm-blackberry-admin-dashboard/tags) for changelogs for each release version of Flyve MDM. Release announcement posts on [the official Teclib' blog](http://www.teclib-edition.com/en/communities/blog-posts/) contain summaries of the most noteworthy changes made in each release.
+See [the tags section of our GitHub project](http://github.com/flyve-mdm/blackberry-mdm-dashboard/tags) for changelogs for each release version of Flyve MDM. Release announcement posts on [the official Teclib' blog](http://www.teclib-edition.com/en/communities/blog-posts/) contain summaries of the most noteworthy changes made in each release.
 
 ## Contribute
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
-guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/flyve-mdm-blackberry-admin-dashboard/issues).
+guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/blackberry-mdm-dashboard/issues).
 
 ## Contact
 
