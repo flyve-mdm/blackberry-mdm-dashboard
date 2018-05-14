@@ -6,7 +6,6 @@
 [![Follow twitter](https://img.shields.io/twitter/follow/FlyveMDM.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/FlyveMDM)
 [![Project Status: WIP](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg)](https://t.me/flyvemdm)
-[![Telegram Contributors](https://img.shields.io/badge/Telegram-Contributors-blue.svg)](https://t.me/flyvemdmdev)
 [![IRC Chat](https://img.shields.io/badge/IRC%20Chat-%23flyvemdm-green.svg)](http://webchat.freenode.net/?channels=flyve-mdm)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![GitHub release](https://img.shields.io/github/release/flyve-mdm/blackberry-mdm-dashboard.svg)](https://github.com/flyve-mdm/blackberry-mdm-dashboard/releases)
@@ -46,7 +45,7 @@ You will find in our awesome features the ability to:
 
 ## Build Status
 
-| **Release channel** | **Beta channel** |
+| **LTS** | **Bleeding Edge** |
 |:---:|:---:|
 | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard.svg?branch=master)](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard) | [![Build Status](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard.svg?branch=develop)](https://travis-ci.org/flyve-mdm/blackberry-mdm-dashboard) |
 
@@ -68,7 +67,7 @@ guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our i
 ## Contact
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm) or [@flyvemdm on Telegram](https://t.me/flyvemdm).
 Ping me @rafaelje in the IRC chatroom if you get stuck.
 
 ## Copying
